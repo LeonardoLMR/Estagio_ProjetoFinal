@@ -1,0 +1,41 @@
+body{
+    background-color: #b7d3f5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+}
+
+img{
+    width: 600px;
+    border: 5px solid rgba(0, 0, 0, 0.45);
+    border-radius: 15px;
+}
+
+a{
+    color:rgb(255, 98, 0);
+}
+
+.planeta{
+    border: 5px solid rgba(0, 0, 0, 0.45);
+    border-radius: 20px;
+    width: 1000px;
+    padding: 20px;
+    margin: auto;
+}
+
+.div1{
+    background-color: rgb(168, 168, 249);
+}
+.div2{
+    background-color: rgb(249, 168, 168);
+}
+.div3{
+    background-color: rgb(168, 249, 175);
+}
+
+.justificado{
+    text-align: justify;
+}
